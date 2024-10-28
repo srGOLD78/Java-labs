@@ -6,6 +6,7 @@ public class Primes {
             }
         }
     }
+
     public static boolean isPrime(int n) {
         // Перебираем числа от 2 до (n - 1)
         for (int i = 2; i < n; i++) {
